@@ -196,7 +196,7 @@ setCatchHandler(({ event }) => {
 ```
 ```txt
 tips： 配置完后需在https服务器上打包运行, localhost环境无法启动next-pwa。
-       demo地址的service-worker服务，需在htttps环境下才能运行
+       demo地址的service-worker服务，需在https环境下才能运行
 ```
 [参考文献](https://blog.csdn.net/qq_41211900/article/details/113252995)
 
